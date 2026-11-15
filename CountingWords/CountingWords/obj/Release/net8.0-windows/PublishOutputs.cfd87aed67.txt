@@ -1,0 +1,6 @@
+C:\Users\JEROME\source\repos\CountingWords\CountingWords\bin\Release\net8.0-windows\publish\CountingWords.exe
+C:\Users\JEROME\source\repos\CountingWords\CountingWords\bin\Release\net8.0-windows\publish\CountingWords.dll
+C:\Users\JEROME\source\repos\CountingWords\CountingWords\bin\Release\net8.0-windows\publish\CountingWords.deps.json
+C:\Users\JEROME\source\repos\CountingWords\CountingWords\bin\Release\net8.0-windows\publish\CountingWords.runtimeconfig.json
+C:\Users\JEROME\source\repos\CountingWords\CountingWords\bin\Release\net8.0-windows\publish\CountingWords.pdb
+C:\Users\JEROME\source\repos\CountingWords\CountingWords\bin\Release\net8.0-windows\publish\FizzWare.NBuilder.dll
