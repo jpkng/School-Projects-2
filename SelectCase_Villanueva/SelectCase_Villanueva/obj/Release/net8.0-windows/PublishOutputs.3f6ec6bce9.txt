@@ -1,0 +1,5 @@
+D:\VS PUBLISHED\SelectCase_Villanueva.exe
+D:\VS PUBLISHED\SelectCase_Villanueva.dll
+D:\VS PUBLISHED\SelectCase_Villanueva.deps.json
+D:\VS PUBLISHED\SelectCase_Villanueva.runtimeconfig.json
+D:\VS PUBLISHED\SelectCase_Villanueva.pdb
