@@ -1,0 +1,5 @@
+C:\Users\JEROME\source\repos\TextEditor\TextEditor\bin\Release\net8.0-windows\publish\TextEditor.exe
+C:\Users\JEROME\source\repos\TextEditor\TextEditor\bin\Release\net8.0-windows\publish\TextEditor.dll
+C:\Users\JEROME\source\repos\TextEditor\TextEditor\bin\Release\net8.0-windows\publish\TextEditor.deps.json
+C:\Users\JEROME\source\repos\TextEditor\TextEditor\bin\Release\net8.0-windows\publish\TextEditor.runtimeconfig.json
+C:\Users\JEROME\source\repos\TextEditor\TextEditor\bin\Release\net8.0-windows\publish\TextEditor.pdb
