@@ -1,0 +1,13 @@
+C:\Users\JEROME\source\repos\LibraryWinApp\LibraryWinApp\bin\Debug\LibraryWinApp.exe.config
+C:\Users\JEROME\source\repos\LibraryWinApp\LibraryWinApp\bin\Debug\LibraryWinApp.exe
+C:\Users\JEROME\source\repos\LibraryWinApp\LibraryWinApp\bin\Debug\LibraryWinApp.pdb
+C:\Users\JEROME\source\repos\LibraryWinApp\LibraryWinApp\bin\Debug\LibraryWinApp.xml
+C:\Users\JEROME\source\repos\LibraryWinApp\LibraryWinApp\obj\Debug\LibraryWinApp.vbproj.AssemblyReference.cache
+C:\Users\JEROME\source\repos\LibraryWinApp\LibraryWinApp\obj\Debug\LibraryWinApp.Form1.resources
+C:\Users\JEROME\source\repos\LibraryWinApp\LibraryWinApp\obj\Debug\LibraryWinApp.Resources.resources
+C:\Users\JEROME\source\repos\LibraryWinApp\LibraryWinApp\obj\Debug\LibraryWinApp.vbproj.GenerateResource.cache
+C:\Users\JEROME\source\repos\LibraryWinApp\LibraryWinApp\obj\Debug\LibraryWinApp.vbproj.CoreCompileInputs.cache
+C:\Users\JEROME\source\repos\LibraryWinApp\LibraryWinApp\obj\Debug\LibraryWinApp.exe
+C:\Users\JEROME\source\repos\LibraryWinApp\LibraryWinApp\obj\Debug\LibraryWinApp.xml
+C:\Users\JEROME\source\repos\LibraryWinApp\LibraryWinApp\obj\Debug\LibraryWinApp.pdb
+C:\Users\JEROME\source\repos\LibraryWinApp\LibraryWinApp\obj\Debug\LibraryWinApp.exe.config

@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="LibraryFinesApp.exe" version="1.0.0.0" publicKeyToken="fb76a18e3f389ce8" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="LibraryFinesApp" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="LibraryFinesApp.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="LibraryFinesApp.exe" size="229304">
+      <assemblyIdentity name="LibraryFinesApp" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>p7TPzMSsezLKo7VWvO9N5ReYkqnnlGmalBDMw19LGZY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="LibraryFinesApp.exe.config" size="188">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>VDy5/VrQni+RSOb/6uEMWMc6bGQEaa2e2UdeWG+KK1I=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=GAY-ASS\JEROME" issuerKeyHash="104912eb0f32f3f758c12ae37186a1798d612462" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>JTl663Z+shJ70RqpD+ZeIz7Gq5fXhVMnHJabG+7FRUs=</DigestValue></Reference></SignedInfo><SignatureValue>soy0ihRnio38gBmexY+/LKUYDUxgTjuBvXvFtBeesHd0A4AhF9B5AjtOgAZOinZIBvuOnYpwWA5FbwMm9nWm8N41bj89LAEafOK6CpDQYZGX47IP6WtLUBpjnTgrxgNUdm1sY8qvNxtxn49dwsLT7LFrZqKk0oCkwnRNtwmoprA=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>s2oK/dCzjXSlCS7BnNKDOvo1qgf3NZh4mlHH+kq4fc4Lpha8R6mCGrS38IyALjXykte095xSjAfZezGhMgG17Pc5tohjDB4IBgVVuHBaW30wKPpT1BqOH8ox1FOfuIzvucDJimcTXeCMwErxe/x+K3aAc+HLf/ablkdNd/Mq1l0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="4b45c5ee1b9b961c275385d797abc63e235ee60fa91ad17b12b27e76eb7a3925" Description="" Url=""><as:assemblyIdentity name="LibraryFinesApp.exe" version="1.0.0.0" publicKeyToken="fb76a18e3f389ce8" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=GAY-ASS\JEROME</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>H8RPOsMKZgbDPV86kzDh8ELUuaHGgP4XdSZZbLb+Ecs=</DigestValue></Reference></SignedInfo><SignatureValue>TS2oWGD65H10CZynCDAV01hKZIiMOnfBZOqXJITn+DNaF4C1WKlwVTWx+Nljt5tcUcZt6v6qlzDLmPGT0ybC9Su9+WfaAGUF4bzYIkRROSGp6RuMswQuYHJMBPJBx9by7EO/tCE1vH5TvBnKZ5y5WEANEXkMWNaAYFWND5MvSyo=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>s2oK/dCzjXSlCS7BnNKDOvo1qgf3NZh4mlHH+kq4fc4Lpha8R6mCGrS38IyALjXykte095xSjAfZezGhMgG17Pc5tohjDB4IBgVVuHBaW30wKPpT1BqOH8ox1FOfuIzvucDJimcTXeCMwErxe/x+K3aAc+HLf/ablkdNd/Mq1l0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB0TCCATqgAwIBAgIQFdokIXaH9oBNTg9ogdaccjANBgkqhkiG9w0BAQsFADAnMSUwIwYDVQQDHhwARwBBAFkALQBBAFMAUwBcAEoARQBSAE8ATQBFMB4XDTI1MDUwMjExMzIwM1oXDTI2MDUwMjE3MzIwM1owJzElMCMGA1UEAx4cAEcAQQBZAC0AQQBTAFMAXABKAEUAUgBPAE0ARTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAs2oK/dCzjXSlCS7BnNKDOvo1qgf3NZh4mlHH+kq4fc4Lpha8R6mCGrS38IyALjXykte095xSjAfZezGhMgG17Pc5tohjDB4IBgVVuHBaW30wKPpT1BqOH8ox1FOfuIzvucDJimcTXeCMwErxe/x+K3aAc+HLf/ablkdNd/Mq1l0CAwEAATANBgkqhkiG9w0BAQsFAAOBgQCREV34TJJBFccvUIswr/dvlTA5pipVzihtZ/R+0+GyN0rwrBnHEhcxYHvS+iKpwPOtWYIMdPsxUsRkVNwHHNltpYF74t0OHeXG6gPvPnJqu36N/Qv4eaB9MUjL/AAv32iO3wCxVSUhHHSjOZPpx6Z54Fbs7VXmOrsP8+BT3ZW6LQ==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
