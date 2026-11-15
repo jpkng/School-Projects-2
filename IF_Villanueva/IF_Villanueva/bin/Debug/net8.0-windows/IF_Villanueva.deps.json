@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "IF_Villanueva/1.0.0": {
+        "runtime": {
+          "IF_Villanueva.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IF_Villanueva/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

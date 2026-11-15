@@ -1,0 +1,5 @@
+D:\VS PUBLISHED\IF_Villanueva.exe
+D:\VS PUBLISHED\IF_Villanueva.dll
+D:\VS PUBLISHED\IF_Villanueva.deps.json
+D:\VS PUBLISHED\IF_Villanueva.runtimeconfig.json
+D:\VS PUBLISHED\IF_Villanueva.pdb

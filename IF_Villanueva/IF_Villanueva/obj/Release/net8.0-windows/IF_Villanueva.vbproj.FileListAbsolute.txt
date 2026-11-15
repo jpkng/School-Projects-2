@@ -1,0 +1,16 @@
+C:\Users\JEROME\source\repos\IF_Villanueva\IF_Villanueva\bin\Release\net8.0-windows\IF_Villanueva.exe
+C:\Users\JEROME\source\repos\IF_Villanueva\IF_Villanueva\bin\Release\net8.0-windows\IF_Villanueva.deps.json
+C:\Users\JEROME\source\repos\IF_Villanueva\IF_Villanueva\bin\Release\net8.0-windows\IF_Villanueva.runtimeconfig.json
+C:\Users\JEROME\source\repos\IF_Villanueva\IF_Villanueva\bin\Release\net8.0-windows\IF_Villanueva.dll
+C:\Users\JEROME\source\repos\IF_Villanueva\IF_Villanueva\bin\Release\net8.0-windows\IF_Villanueva.pdb
+C:\Users\JEROME\source\repos\IF_Villanueva\IF_Villanueva\obj\Release\net8.0-windows\IF_Villanueva.Form1.resources
+C:\Users\JEROME\source\repos\IF_Villanueva\IF_Villanueva\obj\Release\net8.0-windows\IF_Villanueva.vbproj.GenerateResource.cache
+C:\Users\JEROME\source\repos\IF_Villanueva\IF_Villanueva\obj\Release\net8.0-windows\IF_Villanueva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JEROME\source\repos\IF_Villanueva\IF_Villanueva\obj\Release\net8.0-windows\IF_Villanueva.AssemblyInfoInputs.cache
+C:\Users\JEROME\source\repos\IF_Villanueva\IF_Villanueva\obj\Release\net8.0-windows\IF_Villanueva.AssemblyInfo.vb
+C:\Users\JEROME\source\repos\IF_Villanueva\IF_Villanueva\obj\Release\net8.0-windows\IF_Villanueva.vbproj.CoreCompileInputs.cache
+C:\Users\JEROME\source\repos\IF_Villanueva\IF_Villanueva\obj\Release\net8.0-windows\IF_Villanueva.dll
+C:\Users\JEROME\source\repos\IF_Villanueva\IF_Villanueva\obj\Release\net8.0-windows\refint\IF_Villanueva.dll
+C:\Users\JEROME\source\repos\IF_Villanueva\IF_Villanueva\obj\Release\net8.0-windows\IF_Villanueva.pdb
+C:\Users\JEROME\source\repos\IF_Villanueva\IF_Villanueva\obj\Release\net8.0-windows\IF_Villanueva.genruntimeconfig.cache
+C:\Users\JEROME\source\repos\IF_Villanueva\IF_Villanueva\obj\Release\net8.0-windows\ref\IF_Villanueva.dll
