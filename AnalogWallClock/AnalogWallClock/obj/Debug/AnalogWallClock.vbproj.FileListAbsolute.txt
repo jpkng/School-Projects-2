@@ -1,0 +1,14 @@
+C:\Users\JEROME\source\repos\AnalogWallClock\AnalogWallClock\obj\Debug\AnalogWallClock.vbproj.AssemblyReference.cache
+C:\Users\JEROME\source\repos\AnalogWallClock\AnalogWallClock\obj\Debug\AnalogWallClock.Form1.resources
+C:\Users\JEROME\source\repos\AnalogWallClock\AnalogWallClock\obj\Debug\AnalogWallClock.Resources.resources
+C:\Users\JEROME\source\repos\AnalogWallClock\AnalogWallClock\obj\Debug\AnalogWallClock.vbproj.GenerateResource.cache
+C:\Users\JEROME\source\repos\AnalogWallClock\AnalogWallClock\obj\Debug\AnalogWallClock.vbproj.CoreCompileInputs.cache
+C:\Users\JEROME\source\repos\AnalogWallClock\AnalogWallClock\bin\Debug\AnalogWallClock.exe.config
+C:\Users\JEROME\source\repos\AnalogWallClock\AnalogWallClock\bin\Debug\AnalogWallClock.exe
+C:\Users\JEROME\source\repos\AnalogWallClock\AnalogWallClock\bin\Debug\AnalogWallClock.pdb
+C:\Users\JEROME\source\repos\AnalogWallClock\AnalogWallClock\bin\Debug\AnalogWallClock.xml
+C:\Users\JEROME\source\repos\AnalogWallClock\AnalogWallClock\obj\Debug\AnalogWallClock.exe
+C:\Users\JEROME\source\repos\AnalogWallClock\AnalogWallClock\obj\Debug\AnalogWallClock.xml
+C:\Users\JEROME\source\repos\AnalogWallClock\AnalogWallClock\obj\Debug\AnalogWallClock.pdb
+C:\Users\JEROME\source\repos\AnalogWallClock\AnalogWallClock\obj\Debug\AnalogWallClock.exe.config
+C:\Users\JEROME\source\repos\AnalogWallClock\AnalogWallClock\obj\Debug\AnalogWallClock.FormLogin.resources
