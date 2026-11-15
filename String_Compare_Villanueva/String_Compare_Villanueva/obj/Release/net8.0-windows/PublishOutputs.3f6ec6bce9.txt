@@ -1,0 +1,5 @@
+D:\VS PUBLISHED\String_Compare_Villanueva.exe
+D:\VS PUBLISHED\String_Compare_Villanueva.dll
+D:\VS PUBLISHED\String_Compare_Villanueva.deps.json
+D:\VS PUBLISHED\String_Compare_Villanueva.runtimeconfig.json
+D:\VS PUBLISHED\String_Compare_Villanueva.pdb

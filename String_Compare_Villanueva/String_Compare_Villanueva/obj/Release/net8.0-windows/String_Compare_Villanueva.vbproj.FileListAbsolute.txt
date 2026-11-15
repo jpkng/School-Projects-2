@@ -1,0 +1,16 @@
+C:\Users\JEROME\source\repos\String_Compare_Villanueva\String_Compare_Villanueva\bin\Release\net8.0-windows\String_Compare_Villanueva.exe
+C:\Users\JEROME\source\repos\String_Compare_Villanueva\String_Compare_Villanueva\bin\Release\net8.0-windows\String_Compare_Villanueva.deps.json
+C:\Users\JEROME\source\repos\String_Compare_Villanueva\String_Compare_Villanueva\bin\Release\net8.0-windows\String_Compare_Villanueva.runtimeconfig.json
+C:\Users\JEROME\source\repos\String_Compare_Villanueva\String_Compare_Villanueva\bin\Release\net8.0-windows\String_Compare_Villanueva.dll
+C:\Users\JEROME\source\repos\String_Compare_Villanueva\String_Compare_Villanueva\bin\Release\net8.0-windows\String_Compare_Villanueva.pdb
+C:\Users\JEROME\source\repos\String_Compare_Villanueva\String_Compare_Villanueva\obj\Release\net8.0-windows\String_Compare_Villanueva.Form1.resources
+C:\Users\JEROME\source\repos\String_Compare_Villanueva\String_Compare_Villanueva\obj\Release\net8.0-windows\String_Compare_Villanueva.vbproj.GenerateResource.cache
+C:\Users\JEROME\source\repos\String_Compare_Villanueva\String_Compare_Villanueva\obj\Release\net8.0-windows\String_Compare_Villanueva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JEROME\source\repos\String_Compare_Villanueva\String_Compare_Villanueva\obj\Release\net8.0-windows\String_Compare_Villanueva.AssemblyInfoInputs.cache
+C:\Users\JEROME\source\repos\String_Compare_Villanueva\String_Compare_Villanueva\obj\Release\net8.0-windows\String_Compare_Villanueva.AssemblyInfo.vb
+C:\Users\JEROME\source\repos\String_Compare_Villanueva\String_Compare_Villanueva\obj\Release\net8.0-windows\String_Compare_Villanueva.vbproj.CoreCompileInputs.cache
+C:\Users\JEROME\source\repos\String_Compare_Villanueva\String_Compare_Villanueva\obj\Release\net8.0-windows\String_Compare_Villanueva.dll
+C:\Users\JEROME\source\repos\String_Compare_Villanueva\String_Compare_Villanueva\obj\Release\net8.0-windows\refint\String_Compare_Villanueva.dll
+C:\Users\JEROME\source\repos\String_Compare_Villanueva\String_Compare_Villanueva\obj\Release\net8.0-windows\String_Compare_Villanueva.pdb
+C:\Users\JEROME\source\repos\String_Compare_Villanueva\String_Compare_Villanueva\obj\Release\net8.0-windows\String_Compare_Villanueva.genruntimeconfig.cache
+C:\Users\JEROME\source\repos\String_Compare_Villanueva\String_Compare_Villanueva\obj\Release\net8.0-windows\ref\String_Compare_Villanueva.dll
